@@ -30,6 +30,7 @@ N = 500
 
 
 def getDataPoint(quote):
+    """start project"""
     """ Produce all the needed values to generate a datapoint """
     """ ------------- Update this function ------------- """
     stock = quote['stock']
